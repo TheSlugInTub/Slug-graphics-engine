@@ -1,0 +1,3 @@
+﻿  main.cpp
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+  SlugEngine.vcxproj -> C:\Users\DELL\source\repos\SlugEngine\x64\Debug\SlugEngine.exe
